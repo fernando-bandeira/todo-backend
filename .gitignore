@@ -1,0 +1,16 @@
+*.pyc
+.gtm/*
+.cache
+.mypy_cache\
+
+app.json
+
+/dist
+.coverage
+.pytest_cache/
+htmlcov/
+.editorconfig
+
+todo/migrations/
+
+env/
